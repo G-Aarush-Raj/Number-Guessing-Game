@@ -49,5 +49,4 @@
         }
 
         System.out.println("Game over! Your total score is: " + totalScore);
-    }
-}
+    }}
